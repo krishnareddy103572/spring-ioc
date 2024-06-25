@@ -9,7 +9,7 @@ public class Vadaphone implements Sim{
 
 	@Override
 	public void data() {
-		System.out.println("Vadaphone Data using");
+		System.out.println("Vadaphone Data using for browsing");
 	}
 
 }
